@@ -4,7 +4,7 @@
 
 Installing
 -
-For the web application [Review - Ratings](link), the code is written in python 3.9, please check [runtime.txt](link) for python version information.
+For the web application [Review - Ratings](link), the code is written in python 3.9, please check [runtime.txt](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/blob/main/Part1/Que_2/runtime.txt) for python version information.
 
 - Create new environment.
 - Install all the required packages and libraries using below command -  
@@ -24,7 +24,7 @@ Part 1 Q1 :
 ```bash
 data = {"orders":[{"id":1},{"id":2},{"id":3},{"id":4},{"id":5},{"id":6},{"id":7},{"id":8},{"id":9},{"id":10},{"id":11},{"id":648},{"id":649},{"id":650},{"id":651},{"id":652},{"id":653}],"errors":[{"code":3,"message":"[PHP Warning #2] count(): Parameter must be an array or an object that implements Countable (153)"}]}
 ```
-**Solution** - Wrote a class with exception handling. For code, please click here [Part1 Q1](part1Q1link)
+**Solution** - Wrote a class with exception handling. For code, please click here [Part1 Q1](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/tree/main/Part1/Que_1)
 
 
 
@@ -54,7 +54,7 @@ Bonus Points - If you deploy the app with Authentication.
 
 **Solution** - Built a web application for **Review - Ratings**. User will upload a csv file and hit Process file. It will show result in table with columns - Row indices, Text, Positive review & 1-star rating.
 
-###Tools & Technology used: 
+### Tools & Technology used: 
 
 ```
 - Python | Flask-API | HTML | AWS S3 Bucket
@@ -65,7 +65,7 @@ Bonus Points - If you deploy the app with Authentication.
 ```
 ## Useful links
 
-### GitHub Folder - [app.py](git)
+### GitHub Folder - [app.py](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/tree/main/Part1/Que_2)
 
 ### Deployed link - [Review - Ratings](uploading soon)
 
@@ -119,14 +119,14 @@ Part 1  Q3 :
 ---
 Ranking Data - Understanding the co-relation between keyword rankings with description or any other attribute. Here’s the [dataset](https://drive.google.com/file/d/1yuDyU7EjJ8Nai83FDdIF2w4inm17NzBF/view). 
 -
-**Solution**  - For better understanding the co-relation among the variables, written a module, in this first preprocessed the data & then visualized with heatmap using Spearman's rank correlation coefficient. For code & heatmap, please click here [Part1 Q3](part1Q3link)
+**Solution**  - For better understanding the co-relation among the variables, written a module, in this first preprocessed the data & then visualized with heatmap using Spearman's rank correlation coefficient. For code & heatmap, please click here [Part1 Q3](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/tree/main/Part1/Que_3)
 
 ```python
 # Self written module
 from preprocessor import DataPreprocessing
 from preprocessor import DisplayCorrelation
 ```
-- For module code, please click here [preprocessor](link)
+- For module code, please click here [preprocessor](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/blob/main/Part1/Que_3/preprocessor.py)
 
 ## Suggested Questions:
 
@@ -162,7 +162,7 @@ from preprocessor import DisplayCorrelation
 - [DataSet Link](https://drive.google.com/file/d/1LTI5KNqPrtxrYRgJk2AxI30KgYyNcRpD/view)
 
 
-**Solution**  - For the task, used [language-tool-python](https://pypi.org/project/language-tool-python/). It checks all the english grammar & spelling rules and correct them. First checked, if sentence is correct or not & assigned it as a new column, then given data for correction & assigned this data to a new column and showed the difference. For the code, please click here [Part2 Q1](link)
+**Solution**  - For the task, used [language-tool-python](https://pypi.org/project/language-tool-python/). It checks all the english grammar & spelling rules and correct them. First checked, if sentence is correct or not & assigned it as a new column, then given data for correction & assigned this data to a new column and showed the difference. For the code, please click here [Part2 Q1](https://github.com/VkasRajpurohit/Jr-Data-Scientist-Evaluation1/tree/main/Part2)
 
 # Question:
 
