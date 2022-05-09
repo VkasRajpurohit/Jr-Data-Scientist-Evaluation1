@@ -88,7 +88,7 @@ Bonus Points - If you deploy the app with Authentication.
 Heroku Deployment Steps:
 -
 ---
-![img_1.png](imgs\img_1.png)
+![Heroku](https://drive.google.com/file/d/1esqFnnzpF0htpSWvdgD4coDYTPQUiJN5/view?usp=sharing)
 -
 ---
 
