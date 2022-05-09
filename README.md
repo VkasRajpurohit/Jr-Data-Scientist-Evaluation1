@@ -88,7 +88,7 @@ Bonus Points - If you deploy the app with Authentication.
 Heroku Deployment Steps:
 -
 ---
-![img.png](img.png)
+![img.png](img_1.png)
 ---
 
 
@@ -98,10 +98,10 @@ Demo Screen-Shot
 -
 ---
 #### Home-page
-![Home-page.png](imgs\img.png)
+![Home-page.png](img.png)
 
 #### Result-page
-![img_5.png](imgs\img_5.png)
+![img_5.png](img_5.png)
 
 ---
 
