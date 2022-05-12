@@ -1,6 +1,32 @@
-2022-05-09 11:29:29 INFO: app start- working fine
-2022-05-09 11:29:29 WARNING:  * Debugger is active!
-2022-05-09 11:29:29 INFO:  * Debugger PIN: 117-862-224
-2022-05-09 11:29:30 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-2022-05-09 11:29:30 INFO: landing on home page- working fine
-2022-05-09 11:29:30 INFO: 127.0.0.1 - - [09/May/2022 11:29:30] "GET / HTTP/1.1" 200 -
+2022-05-12 15:09:54 INFO: app start- working fine
+2022-05-12 15:09:54 WARNING:  * Debugger is active!
+2022-05-12 15:09:54 INFO:  * Debugger PIN: 117-862-224
+2022-05-12 15:09:55 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-12 15:10:11 INFO: landing on home page- working fine
+2022-05-12 15:10:11 INFO: 127.0.0.1 - - [12/May/2022 15:10:11] "GET / HTTP/1.1" 200 -
+2022-05-12 15:10:34 INFO: Request = POST.
+2022-05-12 15:10:37 INFO: File uploaded successfully.
+2022-05-12 15:10:37 INFO: Process started.
+2022-05-12 15:10:39 INFO: Reading uploaded CSV file.
+2022-05-12 15:10:39 INFO: Selected only Text & Star Columns.
+2022-05-12 15:10:39 INFO: Text Preprocessing Started.
+2022-05-12 15:10:39 INFO: Removed all the rows having null values.
+2022-05-12 15:10:39 INFO: Removed html tags.
+2022-05-12 15:10:39 INFO: Removed all the unwanted brackets.
+2022-05-12 15:10:39 INFO: Removed all the links present.
+2022-05-12 15:10:55 INFO: Performed all the basic text cleaning steps & removed all the stopwords present.
+2022-05-12 15:10:55 INFO: Text Preprocessing Completed successfully.
+2022-05-12 15:10:55 INFO: checking sentiments.
+2022-05-12 15:10:56 INFO: checking sentiments analysis completed.
+2022-05-12 15:10:56 INFO: Process completed successfully.
+2022-05-12 15:10:56 INFO: 127.0.0.1 - - [12/May/2022 15:10:56] "POST /Process_file HTTP/1.1" 200 -
+2022-05-12 15:11:54 INFO: landing on home page- working fine
+2022-05-12 15:11:54 INFO: 127.0.0.1 - - [12/May/2022 15:11:54] "GET / HTTP/1.1" 200 -
+2022-05-12 15:11:57 INFO: contact page- working fine
+2022-05-12 15:11:57 INFO: 127.0.0.1 - - [12/May/2022 15:11:57] "GET /contact HTTP/1.1" 200 -
+2022-05-12 15:12:03 INFO: landing on home page- working fine
+2022-05-12 15:12:03 INFO: 127.0.0.1 - - [12/May/2022 15:12:03] "GET / HTTP/1.1" 200 -
+2022-05-12 15:12:05 INFO: about page- working fine
+2022-05-12 15:12:05 INFO: 127.0.0.1 - - [12/May/2022 15:12:05] "GET /about HTTP/1.1" 200 -
+2022-05-12 15:12:11 INFO: landing on home page- working fine
+2022-05-12 15:12:11 INFO: 127.0.0.1 - - [12/May/2022 15:12:11] "GET / HTTP/1.1" 200 -
